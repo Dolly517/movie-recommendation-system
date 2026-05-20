@@ -9,7 +9,6 @@ This repository contains a Movie Recommendation System that uses the TMDB datase
 - Usage
 - Dataset
 - Future Enhancements
-- Contact
 
 ## Features
 - Content-based recommendations using movie metadata (genres, overview, keywords).
@@ -74,11 +73,3 @@ python app.py
 - Add caching and model versioning.
 - Improve UI and add user accounts to save favorites.
 
-## Contact
-- Author: (add your name or contact)
-- GitHub: (add your GitHub profile)
-
-If you want, I can also:
-- generate a `requirements.txt`,
-- add example API endpoints in `app.py`,
-- or produce a small seed dataset and example requests. Tell me which next.
